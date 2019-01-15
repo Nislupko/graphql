@@ -1,0 +1,19 @@
+
+
+.GoodItem{
+    align-content: center;
+    margin:15px;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: darkorange;
+    color: antiquewhite;
+    width: 40%;
+    width-min: 300px;
+    width-max: 600px;
+    height: 200px ;
+}
+
+.GoodItem h1{
+    text-align: center;
+}
